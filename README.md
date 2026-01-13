@@ -6,6 +6,10 @@ Find statistically better SIP dates using historical SENSEX data.
 - Ranks best SIP weekdays, dates, weeks, and months  
 - Explainable, rule-based, no ML
 
+
+### # *CSV* files are the ones containing the outputs produced by model
+
+
 ## Run
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
