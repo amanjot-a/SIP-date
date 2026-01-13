@@ -7,7 +7,7 @@ Find statistically better SIP dates using historical SENSEX data.
 - Explainable, rule-based, no ML
 
 
-### # *CSV* files are the ones containing the outputs produced by model
+### # *CSV* files are the one's containing the outputs produced by model
 
 
 ## Run
